@@ -1,2 +1,2 @@
 # jsColorGame
-js DOM color game.
+Hosted at http://eidjord.com/colorGame
