@@ -1,2 +1,2 @@
 # jsColorGame
-Hosted at http://eidjord.com/colorGame
+Hosted at http://eidjord.com/learning/colorGame
